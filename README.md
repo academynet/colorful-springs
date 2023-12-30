@@ -1,6 +1,5 @@
 How to Make Colorful Springs with HTML CSS JavaScript
 
-<br>
 <h3>
 Youtube Video: https://youtu.be/WMhmiTC7ZXI
 </h3>
